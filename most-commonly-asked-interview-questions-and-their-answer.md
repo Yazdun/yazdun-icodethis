@@ -16,7 +16,7 @@ In simple terms, a **HOC** is a function that takes a component as an argument a
 // very simplified example
 import React, { useEffect } from "react";
 
-// higher-Order Component
+// higher-order component
 const withLogging = (WrappedComponent) => {
   return (props) => {
     useEffect(() => {
@@ -56,7 +56,7 @@ Now, once you're done explaining what a HOC is, you can say that React Memo is a
 ```jsx
 import React, { memo } from "react";
 
-// Component
+// component
 const MyComponent = ({ name }) => {
   console.log("Rendering MyComponent...");
   return <div>Hello, {name}!</div>;
@@ -120,11 +120,11 @@ export default App;
 ```jsx
 import React, { useState, useCallback } from "react";
 
-// Component
+// component
 const MyComponent = () => {
   const [count, setCount] = useState(0);
 
-  // Increment function
+  // increment function
   const increment = useCallback(() => {
     setCount((prevCount) => prevCount + 1);
   }, []);
@@ -137,7 +137,7 @@ const MyComponent = () => {
   );
 };
 
-// Usage in the app
+// usage in the app
 const App = () => {
   return <MyComponent />;
 };
