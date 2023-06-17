@@ -271,3 +271,19 @@ Hooks are a new addition in React 16.8. They let you use state and other React f
 ## What is Error Boundary in React?
 
 Error boundaries are React components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed.
+
+## What is the difference between controlled and uncontrolled components in React?
+
+In a controlled component, form data is handled by a React component. The alternative is uncontrolled components, where form data is handled by the DOM itself.
+
+## Conclusion
+
+This was a list of some of the most commonly asked React interview questions and their answers. Before letting you go, I want to mention a few helpful tips that you may find helpful during your own job interviews.
+
+1. If you don't know the answer, don't freak out! No one expect you to know the answer to every question. If you don't know the answer, just say that you don't know the answer. But don't stop there! You can say that you don't know the answer, but you're willing to learn. This will show that you're a fast learner and you're willing to learn new things. So try to ask a few questions about the topic and try to figure out the answer with the help of the interviewer
+
+2. Don't try to memorize the answers! I know that it's tempting to memorize the answers, but don't do it! You'll most likely forget the answers during the interview and you'll look like a fool. Instead, try to understand the concept behind the question and try to answer it in your own words.
+
+3. Don't be afraid to ask questions! If you don't understand the question, don't be afraid to ask the interviewer to repeat the question. Also, if you don't understand the question, you can ask the interviewer to explain the question in more details. This will show that you're interested in the topic and you're willing to learn.
+
+I hope you found this article helpful. If you have any questions or feedback, please feel free to reach out to me on [Twitter](https://twitter.com/Yazdun).
