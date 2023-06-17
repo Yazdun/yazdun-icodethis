@@ -84,7 +84,7 @@ As you mention React Memo, the interviewer will most likely ask you about the `u
 
 ### What is useMemo() hook in React?
 
-The `useMemo()` Hook in React helps optimize performance by preventing expensive and functions from running unnecessarily. It returns a memoized value, allowing you to reuse computed results and avoid unnecessary calculations.
+The `useMemo()` Hook in React helps optimize performance by preventing expensive functions from running unnecessarily. It returns a memoized value, allowing you to reuse computed results and avoid unnecessary calculations.
 
 Memoization is a proccess of caching a value so that it does not need to be recalculated.
 
@@ -213,13 +213,13 @@ By default, the `useEffect()` hook runs after every render. However, you can spe
 
 The dependencies array is the second argument to the `useEffect()` hook. It is used to specify which values should trigger the function to re-run. If the dependencies array is empty, the hook will only run once, similar to `componentDidMount()`.
 
-## What is Redux and why do we need it? ( and possible follow up questions )
+## What is Redux and why do we need it?
 
 Allright, this one could be tricky if you're not an experienced developer. Redux is complicated and most junior developers don't know how to explain it. But you don't need to know the first thing about Redux and nail this question anyways! You might be asking how?
 
 Well, the answer is simple. You don't need to know what Redux is, but you need to know why we need it. And the answer is simple: we need Redux to manage the state of our application.
 
-There are many ways to manage the state of your application, and you're not limited to Redux. You can use React Context API, MobX. In my experience, the interviewer wants to know that you're aware of the fact that we need to manage the state of our application.
+There are many ways to manage the state of your application, and you're not limited to Redux. You can use React Context API, MobX and etc. In my experience, the interviewer wants to know that you're aware of the fact that we need to manage the state of our application.
 
 **Important note**: While you may not be familiar with Redux, you should be familiar with the concept of state management. So, if you're not familiar with Redux, you can say that you're familiar with the concept of state management and you're aware of the fact that we need to manage the state of our application.
 
