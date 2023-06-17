@@ -2,7 +2,7 @@
 
 The take-home assignment is one of the most common methods used by recruiters to evaluate a candidate's qualifications for a position. While you might assume that this type of interview is simpler, the truth is that take-home assignments can be just as challenging as technical interviews.
 
-In this article, I will guide you through the process of completing take-home assignments successfully. I'll help you avoid common pitfalls and shed light on what recruiters expect from you during this evaluation phase. By implementing these tips and tricks, you'll undoubtedly set yourself apart from other candidates and increase your chances of standing out in the competitive job market.
+In this article, I will guide you through the process of completing take-home assignments. I'll help you avoid common pitfalls and shed light on what recruiters expect from you during this evaluation phase. By implementing these tips and tricks, you'll undoubtedly set yourself apart from other candidates and increase your chances of standing out in the competitive job market.
 
 ## What are take home assignments?
 
