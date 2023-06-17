@@ -32,7 +32,7 @@ const MyComponent = (props) => {
   return <div>Hello, {props.name}!</div>;
 };
 
-// enhanced Component using the HOC
+// enhanced component using the HOC
 const EnhancedComponent = withLogging(MyComponent);
 
 // usage in the app
