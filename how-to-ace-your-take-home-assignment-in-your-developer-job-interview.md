@@ -4,7 +4,7 @@ The take-home assignment is one of the most common methods used by recruiters to
 
 In this article, I will guide you through the process of completing take-home assignments. I'll help you avoid common pitfalls and shed light on what recruiters expect from you during this evaluation phase. By implementing these tips and tricks, you'll undoubtedly set yourself apart from other candidates and increase your chances of standing out in the competitive job market.
 
-## What are take home assignments?
+## What are the take home assignments?
 
 Before diving into the tips and tricks, it's essential to familiarize ourselves with what exactly take-home assignments are and what you can expect.
 
