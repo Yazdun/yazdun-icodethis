@@ -45,7 +45,7 @@ export default App;
 
 You can also say that higher-order components (HOCs) are functions that take a component as input and return a new component with added functionality.
 
-you can also say that the main advantage of using HOCs is that they allow you to reuse the code and share common functionality between components.
+Then you can say that the main advantage of using HOCs is that they allow you to reuse the code and share common functionality between components.
 
 But just don't stop there! This question will provide a perfect opportunity to show off your knowledge of React by providing a really good example of a HOC, which is **React Memo**.
 
