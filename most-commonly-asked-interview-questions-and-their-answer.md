@@ -255,11 +255,7 @@ This makes the app faster, and the user experience is closer to that of a native
 
 Props (short for properties) and state are both plain JavaScript objects. While both hold information that influences the output of render, they are different in one important way: props get passed to the component (similar to function parameters) whereas state is managed within the component (similar to variables declared within a function).
 
-## What are the Hooks in React? ( and possible follow up question )
-
-Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
-
-### What are the rules of using Hooks in React?
+## What are the rules of using Hooks in React?
 
 1. **Only call Hooks at the top level:** Don’t call Hooks inside loops, conditions, or nested functions.
 
